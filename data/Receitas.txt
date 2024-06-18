@@ -1,0 +1,13 @@
+Receitas:
+1.
+2. https://www.kaggle.com/code/jhondare01/collaborative-filtering-health-aware-recommender/input?select=raw-data_recipe.csv
+3. https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
+4. https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews
+5. https://www.kaggle.com/datasets/brandiellenkinard/healthy-smoothie-recipes-for-dietary-restrictions
+6. https://www.kaggle.com/datasets/joebeachcapital/recipe-reviews-and-user-feedback-dataset
+7. https://www.kaggle.com/datasets/turconiandrea/water-footprint-recommender-system-data
+8. https://www.kaggle.com/datasets/schemersays/food-recommendation-system?select=ratings.csv
+9. https://www.kaggle.com/code/saurav9786/recommendation-based-on-amazon-food-review ???
+10. https://www.kaggle.com/code/aayushmishra1512/food-recommender/input
+11. https://www.kaggle.com/code/mobasshir/food-recommendation-dataset-exploration/input?select=Reviews.csv
+12. https://www.kaggle.com/code/gracehephzibahm/food-recommendation-system-easy-comprehensive/input
