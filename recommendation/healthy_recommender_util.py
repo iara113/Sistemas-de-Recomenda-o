@@ -6,7 +6,7 @@ from recommenders.models.cornac.cornac_utils import predict_ranking
 from recommenders.utils.constants import SEED
 from recommenders.utils.timer import Timer
 from tqdm.notebook import tqdm
-from .. import utils
+import utils
 import pickle
 
 
