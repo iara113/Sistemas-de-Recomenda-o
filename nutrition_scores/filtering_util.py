@@ -1,4 +1,4 @@
-import score_util
+from nutrition_scores import score_util
 from recommenders.utils.timer import Timer
 from tqdm.notebook import tqdm
 import pandas as pd
